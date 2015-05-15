@@ -6,8 +6,6 @@ CartoDB Toolbox for Arcgis Desktop.  It allows you to upload data from Arcgis De
 
 ## Features
 
-![CartoDB Toolbox](docs/screenshot.png?raw=true "CartoDB Toolbox")
-
 * Upload data from Arcgis Desktop to CartoDB
 
 ## Supported Versions
@@ -50,5 +48,26 @@ Run the installer
 Once installed,  CartoDB toolbox must appear on ArcToolbox 
 
 ![Installer](docs/install3.png?raw=true "Installer")
+
+
+## Use
+
+You can use the import tool to CartoDB like any other toolbox.
+
+Parameters:
+* CartoDB User Name
+* Your Api Key
+* Features to be uploaded
+
+![CartoDB Toolbox](docs/screenshot.png?raw=true "CartoDB Toolbox")
+
+![CartoDB Toolbox](docs/importing_data.png?raw=true "CartoDB Toolbox")
+
+And Voila! Your data now it is available on CartoDB 
+
+![CartoDB Toolbox](docs/importing_ok.png?raw=true "CartoDB Toolbox")
+
+
+
 
 
