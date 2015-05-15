@@ -29,6 +29,7 @@ Download the zipball  from  https://github.com/kennethreitz/requests/zipball/mas
 Unzip it.
 
 Use the command Prompt to install the package: 
+
 '''
 cd kennethreitz-requests-ab1f493
 python setup.py install
@@ -63,27 +64,31 @@ Parameters:
 
 ![CartoDB Toolbox](docs/importing_data.png?raw=true "CartoDB Toolbox")
 
-And Voila! Your data now it is available on CartoDB 
+And Voila! Your data is now available on CartoDB
 
 ![CartoDB Toolbox](docs/importing_ok.png?raw=true "CartoDB Toolbox")
 
 
 ## "Advanced" Usage
 
-You can also use the tool in model builder.
+You can also use *CartoDB Toolbox* in model builder.
 
-For example, the following model clips some features acording to a buffer and upload the results to CartoDB
+For example, this model clips features using a buffer. The geoprocessing results are automatically uploaded to CartoDB.
 
 ![CartoDB Toolbox](docs/Example_Model.png?raw=true "CartoDB Toolbox")
 
-This is the original data:
+- Original data:
 
 ![CartoDB Toolbox](docs/agd.png?raw=true "CartoDB Toolbox")
 
-And the clipped features generated and uploaded to CartoDB executing the model: 
+- Clipped features uploaded to CartoDB:
 
 ![CartoDB Toolbox](docs/model_result.png?raw=true "CartoDB Toolbox")
 
+
+# Contributors
+
+  - Juan Méndez ([dersteppenwolf](https://twitter.com/dersteppen))
 
 
 
