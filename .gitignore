@@ -1,0 +1,11 @@
+build/
+requests.egg-info/
+.project
+.pydevproject
+*.pyc
+*.swp
+*.egg
+*.pyt.xml
+env/
+.workon
+dist
