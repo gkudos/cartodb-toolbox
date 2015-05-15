@@ -27,10 +27,14 @@ Add the python that arcgis use to your system path. ( i.e. *c:\Python27\Arcgis10
 * See [ How to set the path and environment variables in Windows](http://www.computerhope.com/issues/ch000549.htm)
 
 Download the zipball  from  https://github.com/kennethreitz/requests/zipball/master
+
 Unzip it.
-Usign the command Prompt change to the unzipped folder and install: 
+
+Use the command Prompt to install the package: 
 '''
 cd kennethreitz-requests-ab1f493
 python setup.py install
 '''
+
+
 
