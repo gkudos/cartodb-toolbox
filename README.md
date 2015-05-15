@@ -50,7 +50,7 @@ Once installed,  CartoDB toolbox must appear on ArcToolbox
 ![Installer](docs/install3.png?raw=true "Installer")
 
 
-## Use
+## Basic Usage
 
 You can use the import tool to CartoDB like any other toolbox.
 
@@ -66,6 +66,24 @@ Parameters:
 And Voila! Your data now it is available on CartoDB 
 
 ![CartoDB Toolbox](docs/importing_ok.png?raw=true "CartoDB Toolbox")
+
+
+## "Advanced" Usage
+
+You can also use the tool in model builder.
+
+For example, the following model clips some features acording to a buffer and upload the results to CartoDB
+
+![CartoDB Toolbox](docs/Example_Model.png?raw=true "CartoDB Toolbox")
+
+This is the original data:
+
+![CartoDB Toolbox](docs/agd.png?raw=true "CartoDB Toolbox")
+
+And the clipped features generated and uploaded to CartoDB executing the model: 
+
+![CartoDB Toolbox](docs/model_result.png?raw=true "CartoDB Toolbox")
+
 
 
 
