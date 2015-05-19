@@ -58,7 +58,7 @@ You can use the import tool to CartoDB like any other toolbox.
 
 Parameters:
 * CartoDB User Name
-* Your Api Key
+* [Your Api Key](http://docs.cartodb.com/cartodb-editor.html#your-account)
 * Features to be uploaded
 
 ![CartoDB Toolbox](docs/screenshot.png?raw=true "CartoDB Toolbox")
