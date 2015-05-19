@@ -7,7 +7,7 @@ CartoDB Toolbox for Arcgis Desktop.  It allows you to upload data from Arcgis De
 ## Features
 
 * Upload data from Arcgis Desktop to CartoDB
-* (For ArcGis Server /  Online layers you  can use the [Arcgis Connector](http://docs.cartodb.com/cartodb-platform/import-api.html#the-arcgis-connector)   
+* (For ArcGis Server /  Online layers you  can use the [Arcgis Connector](http://docs.cartodb.com/cartodb-platform/import-api.html#the-arcgis-connector)   )
 
 ## Supported Versions
 
