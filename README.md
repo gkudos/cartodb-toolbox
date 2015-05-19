@@ -88,9 +88,12 @@ For example, this model clips features using a buffer. The geoprocessing results
 
 # Contributors
 
-  - Juan Méndez ([dersteppenwolf](https://twitter.com/dersteppen))
+- Juan Méndez ( [@dersteppen](https://twitter.com/dersteppen) 
+  
 
+# 3rd Party Scripts
 
-
+-   [cartodb-utils.py](https://gist.github.com/andrewxhill/093c89fa45e5f657fec7)    by  Andrew W. Hill  ( [@andrewxhill](https://twitter.com/andrewxhill) )
+-   [Zip (compress) Python script by Esri](http://arcg.is/1HsK0P0) 
 
 
