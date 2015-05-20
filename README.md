@@ -3,6 +3,7 @@
 
 CartoDB Toolbox for Arcgis Desktop.  It allows you to upload data from Arcgis Desktop to a CartoDB account.
 
+(**Note:**  This project is under development, and I am interested in getting feedback. If you have specific ArcGIS-to-CartoDB needs not met by the current codebase, please email me at <juan@gkudos.com> )
 
 ## Features
 
