@@ -19,8 +19,8 @@ class Toolbox(object):
 class CartoDBImportToolbox(object):
     def __init__(self):
         """Define the tool (tool name is the name of the class)."""
-        self.label = "Import Data"
-        self.description = "Import data to CartoDB "
+        self.label = "Upload data to CartoDB"
+        self.description = "Upload data to CartoDB"
         self.canRunInBackground = False
 
     def getParameterInfo(self):

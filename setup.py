@@ -1,5 +1,5 @@
 '''
-python setup.py bdist_wininst
+python setup.py bdist_wininst 
 '''
 from distutils.core import setup
 setup(name='CartoDB Toolbox For Arcgis',
@@ -7,7 +7,7 @@ setup(name='CartoDB Toolbox For Arcgis',
     author_email='juan@gkudos.com',
     description='CartoDB Toolbox For Arcgis.',
     license='Apache 2.0',
-    version='1.0',
+    version='1.1',
     packages=['gkudos'],
     package_dir={'gkudos': 'gkudos'},
     package_data={'gkudos': ['esri/toolboxes/*.*']},
