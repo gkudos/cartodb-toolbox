@@ -73,6 +73,14 @@ And Voila! Your data is now available on CartoDB
 
 ## "Advanced" Usage
 
+### ArcPy
+
+* [Uploading Geodatabases to CartoDB Using Python and Arcpy](http://gkudos.com/blog/2016/01/11/uploading-geodatabases-to-cartodb-using-python-and-arcpy/)
+
+
+
+### Model Builder
+
 You can also use *CartoDB Toolbox* in model builder.
 
 For example, this model clips features using a buffer. The geoprocessing results are automatically uploaded to CartoDB.
